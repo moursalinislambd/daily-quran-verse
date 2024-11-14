@@ -1,0 +1,20 @@
+{
+    "name": "Daily Quran Verse",
+    "slug": "daily-quran-verse",
+    "version": "1.0",
+    "author": "Moursalin islam",
+    "author_profile": "https://your-website.com",
+    "homepage": "https://your-website.com/plugins/daily-quran-verse",
+    "download_url": "https://github.com/moursalinislambd/daily-quran-verse/daily-quran-verse.zip",
+    "requires": "5.0",
+    "tested": "6.7",
+    "requires_php": "7.0",
+    "sections": {
+        "description": "This plugin displays a daily Quran verse on your website. It supports various editors and includes Copy and Share buttons for each verse.",
+        "installation": "Upload and activate the plugin. Use the shortcode [daily_quran_verse] or widget to display the verse.",
+        "changelog": {
+            "1.1.0": "Added update notification system.",
+            "1.0.0": "Initial release with shortcode, widget, copy, and share features."
+        }
+    }
+}
