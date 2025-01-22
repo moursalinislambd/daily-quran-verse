@@ -2,6 +2,7 @@
 <hr>
 <h3><strong>Daily Quran Verse - Inspire Your Day with Divine Wisdom</strong></h3>
 <p>The <strong>Daily Quran Verse</strong> plugin brings the timeless wisdom of the Quran right to your WordPress website. Easily display a new Quranic verse every day to enlighten and inspire your visitors, creating a space for reflection and spiritual growth.</p>
+<h5>Fully Virustotal Checked: <a href="https://www.virustotal.com/gui/file/7cfcaa87c7ae6583f4dd32646370ae632ddbc1ee676680b78bd9d89cc573e04d">VIRUSTOTAL</a></h5>
 <h4><strong>Features</strong>:</h4>
 <ul>
 <li>
