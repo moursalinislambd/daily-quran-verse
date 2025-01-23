@@ -2,7 +2,7 @@
  /*
  * Plugin Name:       Daily Quran Verse
  * Plugin URI:        https://bdislamicqa.xyz/wordpress-plugin/
- * Description:       The Daily Quran Verse plugin brings the timeless wisdom of the Quran right to your WordPress website. Use the 	     [daily_quran_verse] shortcode in your pages, posts, or widgets to display the verse.
+ * Description:       The Daily Quran Verse plugin brings the timeless wisdom of the Quran right to your WordPress website. Use the [daily_quran_verse] shortcode in your pages, posts, or widgets to display the verse.
 
  * Version:           1.0
  * Author:            Moursalin islam 
