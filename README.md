@@ -111,7 +111,7 @@
 
 <h4>Contact with us</h4>
 <p>Feel Free to contact with us: 
-		
+		<ul>
 	<li>
      	<a href="https://facebook.com/onexusdev"> Facebook Page </a>
 	</li>
@@ -122,4 +122,5 @@
 	<li>
      	<a href="https://mosquesofbangladesh.xyz/post-category/wp-plugin/"> Website (plugin) </a>
 	</li>
+ </ul>
 </p>
