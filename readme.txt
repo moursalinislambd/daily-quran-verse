@@ -1,78 +1,69 @@
-=== Daily Quran Verse ===
-Contributors: Moursalin islam
-Tags: Quran, verse, daily, widget, shortcode, copy, share, WordPress, plugin
-Requires at least: 5.0
-Tested up to: 6.7
-Requires PHP: 7.0
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: daily-quran-verse
+Daily Quran Verse Plugin
+Welcome to the Daily Quran Verse plugin! This plugin allows you to display a daily verse from the Quran on your WordPress site. It is compatible with Elementor, Gutenberg, and the Classic Editor, and also provides a shortcode for easy integration.
 
-== Description ==
+Features
+Daily Quran Verse: Automatically updates with a new verse from the Quran every day.
+Elementor Widget: Easily add the daily verse to your Elementor pages.
+Gutenberg Block: Seamlessly integrate the daily verse into your Gutenberg editor.
+Classic Editor Support: Add the daily verse to your posts and pages using the Classic Editor.
+Shortcode: Use the shortcode [daily_quran_verse] to display the verse anywhere on your site.
+Sidebar Widget: Display the daily verse in your site's sidebar.
+Social Sharing: Share the verse on Facebook, Twitter, and WhatsApp.
+Copy Verse: Easily copy the verse to your clipboard.
+Installation
+Upload the Plugin Files: Upload the plugin files to the /wp-content/plugins/daily-quran-verse directory, or install the plugin through the WordPress plugins screen directly.
+Activate the Plugin: Activate the plugin through the 'Plugins' screen in WordPress.
+Configure Settings: Go to the plugin settings page to configure any options if available.
+Usage
+Elementor
+Open the Elementor editor for the page where you want to add the daily verse.
+Search for the Daily Quran Verse widget in the Elementor panel.
+Drag and drop the widget to your desired location on the page.
+Gutenberg
+Open the Gutenberg editor for the post or page where you want to add the daily verse.
+Click on the Add Block button.
+Search for the Daily Quran Verse block and add it to your content.
+Classic Editor
+Open the Classic Editor for the post or page where you want to add the daily verse.
+Use the shortcode [daily_quran_verse] to display the verse.
+Shortcode
+You can use the shortcode [daily_quran_verse] anywhere on your site to display the daily Quran verse.
 
-The **Daily Quran Verse** plugin allows you to display a new verse from the Quran each day on your WordPress website. It’s designed to provide inspiration and spiritual reflection, beautifully showcasing a Quranic verse wherever you choose to place it on your site. 
+Sidebar Widget
+Go to the Widgets section in your WordPress admin.
+Add the Daily Quran Verse widget to your desired sidebar.
+Screenshots
+Elementor Widget:Elementor Widget
+Gutenberg Block:Gutenberg Block
+Classic Editor Shortcode:Classic Editor Shortcode
+Sidebar Widget:Sidebar Widget
+Frequently Asked Questions
+Q: How often does the verse update? A: The verse updates automatically every day.
 
-This plugin is fully compatible with:
-- **Gutenberg editor**
-- **Elementor**
-- **Classic editor**
-- **Shortcode**
-- **Widgets** for easy placement
+Q: Can I customize the appearance of the verse? A: Yes, you can customize the appearance through the plugin settings or by adding custom CSS.
 
-### Key Features:
-- Automatically displays a new Quranic verse every day.
-- **Copy button**: Allows users to copy the verse to their clipboard.
-- **Share button**: Easily share the verse via the Web Share API or prompt users to copy and share manually.
-- **Shortcode**: Use `[daily_quran_verse]` anywhere on your site to display the verse.
-- **Widgets**: Add the daily verse to your sidebar or footer.
-- Customizable design and easy-to-use settings for developers and non-developers alike.
-- Fully responsive and mobile-friendly.
+Q: Is the plugin compatible with all themes? A: The plugin is designed to be compatible with most themes. If you encounter any issues, please contact support.
 
-Bring divine inspiration to your visitors with the **Daily Quran Verse** plugin.
+Changelog
+1.0.2
+WP-BAKERY compatible.
+Added more Quran verse.
+Added social sharing system.
+Added copy verse.
+Fix elementor widget issue.
+Fix update issue.
+Minor bug fix.
 
-== Installation ==
+1.0.0
+Initial release of the Daily Quran Verse plugin.
+Support
+If you have any questions or need support, please visit our support page or contact us at dev.onexusdev@gmail.com
 
-1. Download and install the plugin from the WordPress plugin directory.
-2. Upload the `daily-quran-verse` folder to the `/wp-content/plugins/` directory, or install it directly through the WordPress admin panel by searching for "Daily Quran Verse".
-3. Activate the plugin through the 'Plugins' menu in WordPress.
-4. Configure the plugin by navigating to **Settings > Daily Quran Verse** to upload your verses in JSON format.
-5. Use the `[daily_quran_verse]` shortcode in your pages, posts, or widgets to display the verse.
+License
+This plugin is licensed under the GPLv2 or later. See the LICENSE file for more details.
 
-== Frequently Asked Questions ==
+Contributing
+We welcome contributions to improve this plugin! If you have any suggestions or find any issues, please create a pull request or open an issue on our GitHub repository.
 
-= How does the plugin display the daily verse? =
-
-The plugin displays a new Quranic verse every day, either automatically in a widget, shortcode, or as part of your page content using the shortcode `[daily_quran_verse]`.
-
-= Can I customize the design of the verse display? =
-
-Yes! The plugin comes with default styling, but you can easily override the CSS styles to match your theme. The verse can be displayed with blockquotes, and the Copy and Share buttons are fully customizable.
-
-= How do I upload Quran verses? =
-
-Upload your verses using a JSON file that follows this format:
-
-```json
-[
-    {
-        "verse": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
-        "reference": "Surah Al-Fatiha 1:1"
-    },
-    {
-        "verse": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
-        "reference": "Surah Ash-Sharh 94:6"
-    }
-]
-
-
-
-
-### Key Sections in the `readme.txt`:
-
-- **Plugin Description**: Introduces what the plugin does, its features, and how it helps users.
-- **Installation Instructions**: Step-by-step guide on how to install and configure the plugin.
-- **FAQs**: Answers common questions about the plugin's functionality and usage.
-- **Changelog**: Records of plugin updates, useful for users to know about new features or fixes.
-- **Screenshots**: Mentioned section where you can add images showing your plugin in action (you can upload them to the WordPress repository).
-- **License and Support**: Information on licensing and where users can seek support.
+Acknowledgements
+Special thanks to all contributors and users who have provided feedback and suppor
