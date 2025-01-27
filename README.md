@@ -66,6 +66,7 @@
 </p>
 
 <h4><strong>Screen-Shot</strong></h4> <hr> <br>
+<center>
 <b>WP-BAKERY</b><br>
 <a href="https://ibb.co.com/XV755Fs"><img src="https://i.ibb.co.com/XV755Fs/Screenshot-2025-01-27-185725.png" alt="Screenshot-2025-01-27-185725" border="0"></a> <a href="https://ibb.co.com/6FXLK2Y"><img src="https://i.ibb.co.com/6FXLK2Y/Screenshot-2025-01-27-185800.png" alt="Screenshot-2025-01-27-185800" border="0"></a> <a href="https://ibb.co.com/68mZLFS"><img src="https://i.ibb.co.com/68mZLFS/Screenshot-2025-01-27-185832.png" alt="Screenshot-2025-01-27-185832" border="0"></a>
 <br><b>ELEMENTOR</b><br>
@@ -78,6 +79,7 @@
 <a href="https://ibb.co.com/ZBV7qYY"><img src="https://i.ibb.co.com/JvKgDyy/Screenshot-2025-01-27-190046.png" alt="Screenshot-2025-01-27-190046" border="0"></a>
 <br><b>DASHBOARD WIDGET (ADMIN)</b><br>
 <a href="https://ibb.co.com/NTj8JZs"><img src="https://i.ibb.co.com/sWw0Ny2/Screenshot-2025-01-27-185954.png" alt="Screenshot-2025-01-27-185954" border="0"></a>
+</center>
 <br>
 <h4>Changelog</h4><hr>
 	[VERSION] <strong><i>1.0.2 </i></strong>
@@ -90,8 +92,7 @@
 <li>Fix update issue.</li>
 <li>Minor bug fix.</li>
 </blockquote>
-
-	[VERSION] <strong><i>1.0.0</i></strong>
+	<p></p>[VERSION] <strong><i>1.0.0</i></strong></p>
 <blockquote>
 <li>Initial release of the Daily Quran Verse plugin.</li></blockquote> <br>
 
@@ -108,16 +109,19 @@
 <p>Special thanks to all contributors and users who have provided feedback and support</p>
 
 <h4>Contact with us</h4>
-<p>Feel Free to contact with us: 
-		
-	<ul><li>
-     	<a href="https://facebook.com/onexusdev"> Facebook Page </a>
-	</li></ul>
-
-	<ul><li>
-     	<a href="mailto:onexusdev@gmail.com"> Gmail </a>
-	</li></ul>
-	<ul><li>
-     	<a href="https://mosquesofbangladesh.xyz/post-category/wp-plugin/"> Website (plugin) </a>
-	</li></ul>
-</p>
+<p>Feel Free to contact with us</p>
+<ul>
+<li>
+<a href="https://facebook.com/onexusdev"> Facebook Page </a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="mailto:onexusdev@gmail.com"> Gmail </a>
+</li>
+</ul>	
+ <ul>
+ <li>
+<a href="https://mosquesofbangladesh.xyz/post-category/wp-plugin/"> Website (plugin) </a>
+</li>
+ </ul>
