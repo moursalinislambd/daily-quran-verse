@@ -68,20 +68,18 @@
 <h4><strong>Screen-Shot</strong></h4> <hr> <br>
 <b>WP-BAKERY</b><br>
 <a href="https://ibb.co.com/XV755Fs"><img src="https://i.ibb.co.com/XV755Fs/Screenshot-2025-01-27-185725.png" alt="Screenshot-2025-01-27-185725" border="0"></a> <a href="https://ibb.co.com/6FXLK2Y"><img src="https://i.ibb.co.com/6FXLK2Y/Screenshot-2025-01-27-185800.png" alt="Screenshot-2025-01-27-185800" border="0"></a> <a href="https://ibb.co.com/68mZLFS"><img src="https://i.ibb.co.com/68mZLFS/Screenshot-2025-01-27-185832.png" alt="Screenshot-2025-01-27-185832" border="0"></a>
-<b>ELEMENTOR</b><br>
+<br><b>ELEMENTOR</b><br>
 <a href="https://ibb.co.com/c6zy0cm"><img src="https://i.ibb.co.com/k4YGjgd/Screenshot-2025-01-27-190415.png" alt="Screenshot-2025-01-27-190415" border="0"></a>
-<b>WORDPRESS WIDGET</b><br>
+<br><b>WORDPRESS WIDGET</b><br>
 <a href="https://ibb.co.com/6yxvMmv"><img src="https://i.ibb.co.com/8mpzC0z/Screenshot-2025-01-27-190402.png" alt="Screenshot-2025-01-27-190402" border="0"></a>
-<b>WORDPRESS SHORTCODE</b><br>
+<br><b>WORDPRESS SHORTCODE</b><br>
 <a href="https://ibb.co.com/cgWYKgy"><img src="https://i.ibb.co.com/GxZHfxd/Screenshot-2025-01-27-190349.png" alt="Screenshot-2025-01-27-190349" border="0"></a>
-<b>FEEDBACK FORM</b><br>
+<br><b>FEEDBACK FORM</b><br>
 <a href="https://ibb.co.com/ZBV7qYY"><img src="https://i.ibb.co.com/JvKgDyy/Screenshot-2025-01-27-190046.png" alt="Screenshot-2025-01-27-190046" border="0"></a>
-<b>DASHBOARD WIDGET (ADMIN)</b><br>
+<br><b>DASHBOARD WIDGET (ADMIN)</b><br>
 <a href="https://ibb.co.com/NTj8JZs"><img src="https://i.ibb.co.com/sWw0Ny2/Screenshot-2025-01-27-185954.png" alt="Screenshot-2025-01-27-185954" border="0"></a>
 <br>
 <h4>Changelog</h4><hr>
-
-
 	[VERSION] <strong><i>1.0.2 </i></strong>
 <blockquote>
 <li>WP-BAKERY compatible.</li>
@@ -111,16 +109,15 @@
 
 <h4>Contact with us</h4>
 <p>Feel Free to contact with us: 
-		<ul>
-	<li>
+		
+	<ul><li>
      	<a href="https://facebook.com/onexusdev"> Facebook Page </a>
-	</li>
+	</li></ul>
 
-	<li>
+	<ul><li>
      	<a href="mailto:onexusdev@gmail.com"> Gmail </a>
-	</li>
-	<li>
+	</li></ul>
+	<ul><li>
      	<a href="https://mosquesofbangladesh.xyz/post-category/wp-plugin/"> Website (plugin) </a>
-	</li>
- </ul>
+	</li></ul>
 </p>
