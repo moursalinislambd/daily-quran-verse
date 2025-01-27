@@ -81,8 +81,9 @@
 <br>
 <h4>Changelog</h4><hr>
 
-<blockquote>
+
 	[VERSION] <strong><i>1.0.2 </i></strong>
+<blockquote>
 <li>WP-BAKERY compatible.</li>
 <li>Added more Quran verse.</li>
 <li>Added social sharing system.</li>
@@ -92,8 +93,8 @@
 <li>Minor bug fix.</li>
 </blockquote>
 
-<blockquote>
 	[VERSION] <strong><i>1.0.0</i></strong>
+<blockquote>
 <li>Initial release of the Daily Quran Verse plugin.</li></blockquote> <br>
 
 <h4>Support</h4>
