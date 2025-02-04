@@ -7,7 +7,7 @@
  * Author:            Moursalin Islam
  * Author URI:        https://www.facebook.com/morsalinislam.bd
  * License:           GPL v2 or later
- * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * License URI:       https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain:       daily-quran-verse
  * Domain Path:       /languages
  * Tags: islamic,quran,verse,quran verse, daily quran, Bangladesh
