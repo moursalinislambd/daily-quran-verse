@@ -2,7 +2,7 @@
 Contributors: Moursalin Islam (morsalin99)
 Tags: quran, daily verse, islam, islamic, religion, elementor, gutenberg, shortcode, widget
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.8.1
 Requires PHP: 7.2
 Stable tag: 1.0.0
 License: GPLv2 or later
