@@ -82,7 +82,7 @@
 </center>
 <br>
 <h4>Changelog</h4><hr>
-	[VERSION] <strong><i>1.0.2 </i></strong>
+	[VERSION] <strong><i>1.0.1 </i></strong>
 <blockquote>
 <li>WP-BAKERY compatible.</li>
 <li>Added more Quran verse.</li>
