@@ -12,7 +12,7 @@
  * Domain Path:       /languages
  * Tags: islamic,quran,verse,quran verse, daily quran, Bangladesh
  * Requires at least: 5.0
- * Tested up to:      6.0
+ * Tested up to:      6.8.1
  * Requires PHP:      7.0
  * Update URI:        https://mosquesofbangladesh.xyz/post-category/wp-plugin/
  * ------------------------------------------------------------------------
