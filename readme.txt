@@ -1,5 +1,5 @@
 === Daily Quran Verse ===
-Contributors: Moursalin Islam (morsalin99)
+Contributors: Moursalin Islam (morsalin99) 
 Tags: quran, daily verse, islam, islamic, religion, elementor, gutenberg, shortcode, widget
 Requires at least: 5.0
 Tested up to: 6.8.1
